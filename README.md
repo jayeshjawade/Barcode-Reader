@@ -100,10 +100,3 @@ If you want to scan for a very specific combination of barcodes you can setup th
 
 ##Screenshots
 ![Image](https://raw.githubusercontent.com/EdwardvanRaak/MaterialBarcodeScanner/master/DEV/screens/screenshot1.png)
-
-#Developed By
-
-* Edward van Raak
- * edwardvraak@gmail.com
- * [Donate with Paypal](https://www.paypal.me/EdwardvanRaak)
-
